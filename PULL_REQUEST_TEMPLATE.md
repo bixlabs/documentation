@@ -24,7 +24,7 @@ Here goes the explanation of the previous state/ or the bug.
 
 Here goes what the application does after the new changes.
 
-###Related PRs
+### Related PRs
 List related PRs against other branches:
 
 branch | PR
