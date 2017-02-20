@@ -5,10 +5,6 @@ Example:
 
 see [Project-Task|Story](link())
 
-## Migrations
-
-YES | NO
-
 
 ## What this PR does?
 
@@ -24,6 +20,15 @@ Here goes the explanation of the previous state/ or the bug.
 
 Here goes what the application does after the new changes.
 
+### How to test / reproduce
+
+- Here goes the steps to do the test.
+- Other step.
+
+### TODOs
+- [ ] Tests
+- [ ] Documentation
+
 ### Related PRs
 List related PRs against other branches:
 
@@ -32,17 +37,11 @@ branch | PR
 other_pr_production | [link]()
 other_pr_master | [link]()
 
+## Migrations
 
-## How to test / reproduce
-
-- Here goes the steps to do the test.
-- Other step.
-
-## TODOs
-- [ ] Tests
-- [ ] Documentation
-
-
+YES | NO
 
 
 At last, @mention team members you want involve, if necessary.
+
+and a "Thanks!" would be great! 
